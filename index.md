@@ -2,7 +2,8 @@
 title: "Maggie's Website"
 ---
 
-PICTURE
+<image src="https://cdn.discordapp.com/attachments/754434661026889859/835265605270634506/20210423_172651.jpg" width="300">
+
 
 Facebook: Maggie Lin          Discord: ArcanaM#2797
 
