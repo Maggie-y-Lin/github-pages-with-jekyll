@@ -5,7 +5,8 @@ title: "Maggie's Website"
 <image src="https://cdn.discordapp.com/attachments/754434661026889859/835265605270634506/20210423_172651.jpg" width="300">
 Picture of me touching grass because I told my friend I have not touched the light of day in months.
 
-Facebook: Maggie Lin          Discord: ArcanaM#2797
+Facebook: Maggie Lin          
+Discord: ArcanaM#2797
 
 
 Brag Sheet
